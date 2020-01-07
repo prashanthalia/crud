@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "DETAILS": [
+    {
+      "id": 1,
+      "name": "prashanthu",
+      "loc": "hyderabad"
+    },
+    {
+      "id": 2,
+      "name": "karthika",
+      "loc": "chennai"
+    },
+    {
+      "id": 3,
+      "name": "Gowa",
+      "loc": "andharapradesh"
+    },
+    {
+      "id": 4,
+      "name": "roja",
+      "loc": "aramghar"
+    },
+    {
+      "id": 5,
+      "name": "vinay",
+      "loc": "warangal"
+    },
+    {
+      "id": 6,
+      "name": "prasana",
+      "loc": "vizag"
+    },
+    {
+      "id": 7,
+      "name": "U PRTHUSHA DEVI",
+      "loc": "east godavari"
+    },
+    {
+      "id": 8,
+      "name": "anuradha",
+      "loc": "agra"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
